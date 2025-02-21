@@ -104,7 +104,7 @@
    
    
    .submit{
-       background-color: green;
+       background-color: blueviolet;
        border: none;
        border-radius: 5px;
        padding-left: 50px;
@@ -129,7 +129,7 @@
    
    .footer{
        
-           background-color: #D9D9D9;
+           background-color: aqua;
            padding-left: 566px;
            padding-top:40px;
            width: 800px; 
